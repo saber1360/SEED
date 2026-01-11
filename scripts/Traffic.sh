@@ -25,7 +25,7 @@ do
     --enc_in 862 \
     --dec_in 862 \
     --c_out 862 \
-    --patch_len 48 \
+    --patch_len 96 \
     --des 'Exp' \
     --d_model 512 \
     --d_ff 2048 \
